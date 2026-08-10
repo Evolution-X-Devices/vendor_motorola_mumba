@@ -3732,6 +3732,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/vendor/etc/st54l_conf_ss.txt:$(TARGET_COPY_OUT_VENDOR)/etc/st54l_conf_ss.txt \
     vendor/motorola/mumba/proprietary/vendor/etc/stub_audio_policy_configuration.xml:$(TARGET_COPY_OUT_VENDOR)/etc/stub_audio_policy_configuration.xml \
     vendor/motorola/mumba/proprietary/vendor/etc/sysconfig/cacert-oem-defined-uids.xml:$(TARGET_COPY_OUT_VENDOR)/etc/sysconfig/cacert-oem-defined-uids.xml \
+    vendor/motorola/mumba/proprietary/vendor/etc/task_profiles.json:$(TARGET_COPY_OUT_VENDOR)/etc/task_profiles.json \
     vendor/motorola/mumba/proprietary/vendor/etc/telephony_packages.xml:$(TARGET_COPY_OUT_VENDOR)/etc/telephony_packages.xml \
     vendor/motorola/mumba/proprietary/vendor/etc/tetras/portrait_repair_composite.model:$(TARGET_COPY_OUT_VENDOR)/etc/tetras/portrait_repair_composite.model \
     vendor/motorola/mumba/proprietary/vendor/etc/tetras/super_resolution/sr_models.bin:$(TARGET_COPY_OUT_VENDOR)/etc/tetras/super_resolution/sr_models.bin \
